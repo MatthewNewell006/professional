@@ -3,5 +3,6 @@
 
 <hr>
 <br><br>
-*Start by creating a line
-*Also by creating bullets
+**Start**
+* Start by creating a line
+* Also by creating bullets
