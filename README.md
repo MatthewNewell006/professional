@@ -1,3 +1,5 @@
 ## This page is dedicated to creating a prefessional README.md and Repository!
 <hr>
-**b**
+- George Washington
+- John Adams
+- Thomas Jefferson
