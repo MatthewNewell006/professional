@@ -1,5 +1,7 @@
 ## This page is dedicated to creating a prefessional README.md and Repository!
-<hr>
-- George Washington
-- John Adams
-- Thomas Jefferson
+
+
+
+- Bullet List
+- Bullet List
+* Bullet List
