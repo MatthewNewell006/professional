@@ -4,12 +4,12 @@
 <hr>
 <br><br>
 ### Start
-  - [Start by creating a line]
-  - [Also by creating bullets]
+  - Start by creating a line
+  - Also by making bullets
 
 
 ### Contents
-- [The Open-Source Data Science Masters]
+- [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
   - [Contents](#contents)
   - [The Internet is Your Oyster](#the-internet-is-your-oyster)
   - [The Motivation](#the-motivation)
