@@ -4,8 +4,8 @@
 <hr>
 <br><br>
 ### Start
-- [Start by creating a line]
-- [Also by creating bullets]
+  - [Start by creating a line]
+  - [Also by creating bullets]
 
 
 ### Contents
