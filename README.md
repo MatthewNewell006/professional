@@ -9,7 +9,7 @@
 
 
 ### Contents
-- [The Open-Source Data Science Masters](#the-open-source-data-science-masters)
+- [The Open-Source Data Science Masters]
   - [Contents](#contents)
   - [The Internet is Your Oyster](#the-internet-is-your-oyster)
   - [The Motivation](#the-motivation)
